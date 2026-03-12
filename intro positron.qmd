@@ -1,0 +1,74 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Your Name"
+date: '`r format(Sys.time())`'
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Installing and Learning Positron
+
+## Prompt
+
+> Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.
+
+### Response
+
+I downloaded and installed Positron and followed along with the tutorial videos to become familiar with the environment. The videos helped me explore the basic layout and understand how to run code and manage files. Overall, the setup process was straightforward and helped me get comfortable with the software.
+
+# Positron vs RStudio
+
+## Prompt
+
+One thing I like about Positron compared with RStudio is that the interface feels modern compared to Rstudio. The environment seems designed to support extensions and newer development tools. This makes it feel like a more updated workspace for coding and data analysis.
+
+# Using AI in Positron
+
+## Prompt
+
+AI tools in Positron can assist with writing code, suggesting improvements, and explaining programming errors. Some tools provide automatic code completion or help generate small pieces of code while working. These features can help users work more efficiently and learn programming concepts more quickly.
+
+# GitHub Copilot Experience
+
+## Prompt
+
+> Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+
+### Response
+
+One AI tool I set up was GitHub Copilot. It provides suggestions while coding and can help complete lines of code automatically. This type of tool can make programming faster and more convenient.
+
+## Prompt
+
+> ![](images/Screenshot 2026-03-11 at 9.55.53 PM.png)
+
+### Response
+
+> Do you find GitHub Copilot helpful or distracting? Please elaborate.
+
+### Response
+
+GitHub Copilot can be helpful because it suggests code and speeds up the writing process. However, it can sometimes provide suggestions that are unnecessary or distracting. Overall, it can be useful as long as the user still focuses on understanding the code being written.
+
+------------------------------------------------------------------------
+
+# Publishing with GitHub Pages
+
+### Response
+
+Steps I followed:
+
+1.  Created a GitHub repository.
+2.  Uploaded my `.qmd` and `.html` files.
+3.  Enabled GitHub Pages in repository settings.
+4.  Selected the main branch as the source.
+
+GitHub Pages URL:
