@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "Shinylive.html",
+    "href": "Shinylive.html",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Explain Shinylive, how it differs from Shiny, and its pros and cons.\n\n\n\nShinylive is a way to run Shiny apps directly in a web browser without needing a server.\n\n\n\nTraditional Shiny apps require a server to run, while Shinylive runs entirely in the browser.\n\n\n\n\nNo server required\n\nEasy to deploy\n\nCan be shared easily\n\n\n\n\n\nLimited performance\n\nNot suitable for complex applications\n\n\n\n\nShinylive is a convenient alternative for simple applications, but traditional Shiny is better for more advanced use cases."
+  },
+  {
+    "objectID": "Shinylive.html#prompt",
+    "href": "Shinylive.html#prompt",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Explain Shinylive, how it differs from Shiny, and its pros and cons."
+  },
+  {
+    "objectID": "Shinylive.html#what-is-shinylive",
+    "href": "Shinylive.html#what-is-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Shinylive is a way to run Shiny apps directly in a web browser without needing a server."
+  },
+  {
+    "objectID": "Shinylive.html#how-is-it-different-from-shiny",
+    "href": "Shinylive.html#how-is-it-different-from-shiny",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Traditional Shiny apps require a server to run, while Shinylive runs entirely in the browser."
+  },
+  {
+    "objectID": "Shinylive.html#pros-of-shinylive",
+    "href": "Shinylive.html#pros-of-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "No server required\n\nEasy to deploy\n\nCan be shared easily"
+  },
+  {
+    "objectID": "Shinylive.html#cons-of-shinylive",
+    "href": "Shinylive.html#cons-of-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Limited performance\n\nNot suitable for complex applications"
+  },
+  {
+    "objectID": "Shinylive.html#conclusion",
+    "href": "Shinylive.html#conclusion",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Shinylive is a convenient alternative for simple applications, but traditional Shiny is better for more advanced use cases."
+  },
+  {
+    "objectID": "Index.html",
+    "href": "Index.html",
+    "title": "Home",
+    "section": "",
+    "text": "project: type: website\nwebsite: title: “M10 Assignment” navbar: left: - href: index.qmd text: Home - href: dashboard.qmd text: Dashboard - href: shiny-apps.qmd text: Shiny Apps - href: shinylive.qmd text: Shinylive\nformat: html: theme: cosmo toc: true"
+  },
+  {
+    "objectID": "Index.html#about-me",
+    "href": "Index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\n\nI am currently a college student interested in marketing and business-related positions."
+  },
+  {
+    "objectID": "Index.html#career-aspiration",
+    "href": "Index.html#career-aspiration",
+    "title": "Home",
+    "section": "Career Aspiration",
+    "text": "Career Aspiration\nMy goal is to pursue a career in marketing or a similar field where I can apply communication and organizational skills in a professional setting."
+  },
+  {
+    "objectID": "Index.html#skills",
+    "href": "Index.html#skills",
+    "title": "Home",
+    "section": "Skills",
+    "text": "Skills\n\nCommunication\n\nTeamwork\n\nTime Management\n\nOrganization"
+  },
+  {
+    "objectID": "Index.html#education",
+    "href": "Index.html#education",
+    "title": "Home",
+    "section": "Education",
+    "text": "Education\nOntario High School, CA\nHigh School Diploma (2023)"
+  },
+  {
+    "objectID": "Shiny-Apps.html",
+    "href": "Shiny-Apps.html",
+    "title": "Home",
+    "section": "",
+    "text": "```markdown id=“xpd5d4” # Essay on Shiny Apps"
+  },
+  {
+    "objectID": "Shiny-Apps.html#prompt",
+    "href": "Shiny-Apps.html#prompt",
+    "title": "Home",
+    "section": "Prompt",
+    "text": "Prompt\nExplain Shiny Apps as if teaching coworkers."
+  },
+  {
+    "objectID": "Shiny-Apps.html#what-is-a-shiny-app",
+    "href": "Shiny-Apps.html#what-is-a-shiny-app",
+    "title": "Home",
+    "section": "What is a Shiny App?",
+    "text": "What is a Shiny App?\nA Shiny app is an interactive web application created using R. It allows users to interact with data through a browser without needing to write code."
+  },
+  {
+    "objectID": "Shiny-Apps.html#how-shiny-works",
+    "href": "Shiny-Apps.html#how-shiny-works",
+    "title": "Home",
+    "section": "How Shiny Works",
+    "text": "How Shiny Works\nShiny applications have two main components: - User Interface (UI), which controls what users see - Server, which processes inputs and generates outputs"
+  },
+  {
+    "objectID": "Shiny-Apps.html#why-shiny-apps-are-useful",
+    "href": "Shiny-Apps.html#why-shiny-apps-are-useful",
+    "title": "Home",
+    "section": "Why Shiny Apps are Useful",
+    "text": "Why Shiny Apps are Useful\nShiny apps allow users to explore data dynamically instead of viewing static charts. This makes it easier to understand patterns and relationships in the data."
+  },
+  {
+    "objectID": "Shiny-Apps.html#example-use-case",
+    "href": "Shiny-Apps.html#example-use-case",
+    "title": "Home",
+    "section": "Example Use Case",
+    "text": "Example Use Case\nA company could use a Shiny app to allow employees to filter and analyze sales data based on different categories."
+  },
+  {
+    "objectID": "Shiny-Apps.html#conclusion",
+    "href": "Shiny-Apps.html#conclusion",
+    "title": "Home",
+    "section": "Conclusion",
+    "text": "Conclusion\nOverall, Shiny apps are useful tools for making data interactive and accessible to a wider audience."
+  }
+]

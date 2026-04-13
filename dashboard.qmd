@@ -1,0 +1,19 @@
+---
+title: "Dashboard"
+format: dashboard
+---
+
+## Prompt
+Create a dashboard using data of your choice.
+
+## Dashboard Overview
+This dashboard presents a simple visualization to demonstrate how data can be displayed and interpreted using charts.
+
+## Row
+
+### Speed vs Distance
+```{r}
+plot(cars$speed, cars$dist,
+     main = "Speed vs Distance",
+     xlab = "Speed",
+     ylab = "Distance")
