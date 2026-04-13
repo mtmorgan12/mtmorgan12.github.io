@@ -1,0 +1,22 @@
+# Essay on Shinylive
+
+## Prompt
+Explain Shinylive, how it differs from Shiny, and its pros and cons.
+
+## What is Shinylive?
+Shinylive is a way to run Shiny apps directly in a web browser without needing a server.
+
+## How is it Different from Shiny?
+Traditional Shiny apps require a server to run, while Shinylive runs entirely in the browser.
+
+## Pros of Shinylive
+- No server required  
+- Easy to deploy  
+- Can be shared easily  
+
+## Cons of Shinylive
+- Limited performance  
+- Not suitable for complex applications  
+
+## Conclusion
+Shinylive is a convenient alternative for simple applications, but traditional Shiny is better for more advanced use cases.
